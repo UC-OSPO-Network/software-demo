@@ -62,3 +62,13 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICE
 ## Contact
 
 For questions or feedback, please open an issue in this repository.
+
+## Reproducible environment (pixi)
+
+This branch adds a [pixi](https://pixi.sh) environment so the project runs identically
+across machines (Python and R, pinned by a lockfile):
+
+```bash
+pixi install
+pixi run python src/analysis.py
+```
