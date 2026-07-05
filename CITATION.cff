@@ -14,5 +14,7 @@ authors:
   - family-names: "Padilla"
     given-names: "Karla"
 version: "0.1.0"
+doi: 10.5072/zenodo.123456
 date-released: 2026-02-01
 url: "https://github.com/UC-OSPO-Network/software-demo"
+repository-code: "https://github.com/UC-OSPO-Network/software-demo"

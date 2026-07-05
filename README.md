@@ -1,12 +1,10 @@
 # Biodiversity Analysis Toolkit
 
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.123456.svg)](https://doi.org/10.5072/zenodo.123456)
+
 Analysis tools for biodiversity research data.
 
-> **Note for learners:** this is the *starting state* for the
-> "Sharing Research Software" lesson. It intentionally has no license,
-> citation file, release, or metadata. You'll add those over the course of
-> the lesson. To see the finished version, switch to the `after-metadata`
-> branch in the branch dropdown.
+> **Note:** the DOI above points to Zenodo Sandbox for teaching purposes.
 
 ## License
 
